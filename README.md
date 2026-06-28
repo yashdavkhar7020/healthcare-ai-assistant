@@ -398,7 +398,7 @@ This approach grounds the LLM's response in the available documents and reduces 
 
 Yash Davkhar
 
-GitHub: https://github.com/yashdavkhar7020
+GitHub: https://github.com/yashdavkhar7020-
 
 ---
 
