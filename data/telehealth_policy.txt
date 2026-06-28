@@ -1,0 +1,347 @@
+# Document ID: HCA-002
+
+**Hospital:** ABC Multi-Speciality Hospital
+**Department:** Digital Health & Telemedicine Services
+**Document Title:** Telehealth Consultation Policy
+**Version:** 1.0
+**Effective Date:** January 2026
+**Last Updated:** March 2026
+
+---
+
+# Telehealth Consultation Policy
+
+## 1. Purpose
+
+The purpose of this Telehealth Consultation Policy is to establish standardized guidelines for delivering safe, secure, and effective healthcare services through virtual consultations at ABC Multi-Speciality Hospital. Telehealth services are intended to improve access to healthcare, reduce unnecessary travel, and support continuity of care while maintaining high standards of patient safety, privacy, and clinical quality.
+
+This policy outlines patient eligibility, appointment procedures, technology requirements, provider responsibilities, limitations of telehealth, medication refill guidelines, and privacy practices.
+
+---
+
+# 2. Scope
+
+This policy applies to all healthcare professionals, administrative staff, and patients participating in telehealth consultations provided by ABC Multi-Speciality Hospital.
+
+Telehealth services may include:
+
+* Primary care consultations
+* Follow-up appointments
+* Chronic disease management
+* Medication review
+* Preventive healthcare consultations
+* Mental health counseling
+* Nutritional counseling
+* Laboratory result discussions
+* Post-discharge follow-up visits
+
+Emergency medical care is not included within the scope of telehealth services.
+
+---
+
+# 3. Eligibility for Telehealth Services
+
+Patients may be eligible for telehealth consultations if their medical condition can be reasonably evaluated without requiring an immediate physical examination.
+
+Examples of appropriate telehealth consultations include:
+
+* Follow-up visits after treatment
+* Stable chronic disease management
+* Prescription renewals for eligible medications
+* Review of laboratory reports
+* Minor illnesses with non-emergency symptoms
+* Lifestyle and wellness counseling
+* Medication side-effect discussions
+* General health education
+
+The attending healthcare provider will determine whether telehealth is clinically appropriate for each patient.
+
+---
+
+# 4. Situations Where Telehealth Is Not Appropriate
+
+Telehealth consultations should not be used for medical emergencies or situations requiring immediate in-person assessment.
+
+Patients should seek emergency medical care immediately if they experience symptoms such as:
+
+* Chest pain
+* Severe difficulty breathing
+* Sudden loss of consciousness
+* Stroke symptoms
+* Severe allergic reactions
+* Major injuries or trauma
+* Heavy bleeding
+* Seizures
+* Sudden vision loss
+* Suicidal thoughts or psychiatric emergencies
+
+Hospital staff may advise patients to visit the Emergency Department if urgent medical evaluation is necessary.
+
+---
+
+# 5. Appointment Scheduling
+
+Telehealth appointments may be scheduled through:
+
+* Hospital website
+* Mobile application
+* Call center
+* Hospital reception desk
+
+Patients should provide:
+
+* Full name
+* Contact information
+* Patient identification number (if available)
+* Reason for consultation
+* Preferred physician or department
+* Insurance information when applicable
+
+Appointments are considered confirmed only after the patient receives an official confirmation from the hospital.
+
+---
+
+# 6. Technology Requirements
+
+Patients are responsible for ensuring that they have appropriate technology before the scheduled consultation.
+
+Minimum requirements include:
+
+* Smartphone, tablet, laptop, or desktop computer
+* Camera and microphone
+* Stable internet connection
+* Updated web browser or hospital application
+* Quiet and private location
+
+Patients are encouraged to test their device before the consultation to minimize technical issues.
+
+---
+
+# 7. Patient Check-In
+
+Patients should join the virtual consultation approximately **10 minutes before** the scheduled appointment.
+
+Before the consultation begins, patients may be asked to:
+
+* Verify their identity
+* Confirm contact information
+* Review consent for telehealth services
+* Update medication information
+* Confirm current location for emergency purposes if required
+
+Late arrival may reduce consultation time or require rescheduling depending on physician availability.
+
+---
+
+# 8. Identity Verification
+
+To protect patient privacy and ensure accurate medical records, healthcare providers may request identity verification before beginning the consultation.
+
+Acceptable verification may include:
+
+* Patient name
+* Date of birth
+* Registered phone number
+* Government-issued identification when necessary
+
+Healthcare providers may refuse to continue the consultation if patient identity cannot be reasonably confirmed.
+
+---
+
+# 9. Patient Consent
+
+Participation in telehealth services requires informed patient consent.
+
+Before the consultation, patients acknowledge that:
+
+* Telehealth has limitations compared to in-person visits.
+* Technical interruptions may occur.
+* Some medical conditions cannot be fully evaluated remotely.
+* Physicians may recommend an in-person appointment when clinically appropriate.
+
+Consent may be obtained electronically or verbally and documented in the patient's medical record.
+
+---
+
+# 10. Medication Refill Policy
+
+Patients may request medication refills during telehealth consultations under appropriate clinical circumstances.
+
+Medication refill requests may be approved when:
+
+* The medication has been previously prescribed by an authorized healthcare provider.
+* The patient's condition remains clinically stable.
+* The physician determines that an in-person examination is not required.
+* No signs indicate worsening illness or medication misuse.
+
+Medication refill requests may be denied if:
+
+* The medication requires physical examination before renewal.
+* Additional laboratory testing is required.
+* The medication is classified as a controlled substance requiring in-person evaluation.
+* The physician believes further assessment is necessary for patient safety.
+
+Patients should request refills before their medication supply is exhausted to avoid treatment interruptions.
+
+---
+
+# 11. Laboratory Results
+
+Telehealth consultations are appropriate for discussing laboratory and diagnostic test results.
+
+Healthcare providers may:
+
+* Explain laboratory findings.
+* Recommend lifestyle modifications.
+* Adjust treatment plans.
+* Order additional investigations.
+* Recommend specialist referrals when appropriate.
+
+Patients requiring physical examination following abnormal test results may be advised to schedule an in-person visit.
+
+---
+
+# 12. Clinical Documentation
+
+Healthcare providers will document telehealth consultations in the patient's medical record using the same professional standards applied to in-person visits.
+
+Documentation typically includes:
+
+* Consultation date and time
+* Patient identity verification
+* Chief complaint
+* Medical history
+* Assessment
+* Treatment recommendations
+* Follow-up plan
+* Technical issues encountered during the consultation
+
+Clinical documentation becomes part of the patient's permanent medical record.
+
+---
+
+# 13. Privacy and Confidentiality
+
+ABC Multi-Speciality Hospital is committed to protecting patient privacy during telehealth consultations.
+
+Healthcare providers will:
+
+* Conduct consultations using approved secure communication platforms.
+* Access only necessary patient information.
+* Maintain confidentiality of all discussions.
+* Avoid recording consultations unless specifically authorized by hospital policy and patient consent.
+
+Patients are encouraged to participate from a private location where confidential medical discussions cannot be overheard.
+
+---
+
+# 14. Technical Interruptions
+
+Occasionally, technical difficulties may interrupt telehealth consultations.
+
+Examples include:
+
+* Internet connectivity issues
+* Audio failure
+* Video failure
+* Platform outages
+* Device malfunction
+
+If the consultation is interrupted, reasonable efforts will be made to reconnect.
+
+If reconnection is unsuccessful, hospital staff may:
+
+* Continue the consultation by telephone if clinically appropriate.
+* Reschedule the appointment.
+* Recommend an in-person consultation if necessary.
+
+---
+
+# 15. Physician Responsibilities
+
+Healthcare providers participating in telehealth consultations are responsible for:
+
+* Reviewing relevant medical records.
+* Verifying patient identity.
+* Determining clinical suitability for telehealth.
+* Maintaining professional communication.
+* Protecting patient confidentiality.
+* Documenting the consultation accurately.
+* Referring patients for in-person care when appropriate.
+
+Physicians should avoid making clinical decisions when insufficient information is available through virtual assessment.
+
+---
+
+# 16. Patient Responsibilities
+
+Patients participating in telehealth services are expected to:
+
+* Join appointments on time.
+* Provide accurate medical information.
+* Inform the provider of current medications.
+* Participate from a safe and private environment.
+* Ensure adequate internet connectivity.
+* Follow medical advice provided during the consultation.
+* Seek emergency care when advised.
+
+Patients should avoid participating while driving or engaging in activities that could interfere with effective communication.
+
+---
+
+# 17. Follow-Up Care
+
+Following a telehealth consultation, healthcare providers may recommend:
+
+* Home care instructions
+* Prescription medications
+* Additional laboratory tests
+* Imaging studies
+* Specialist referrals
+* In-person evaluation
+* Follow-up telehealth consultation
+
+Patients should follow the recommended care plan and contact the hospital if symptoms worsen before the scheduled follow-up.
+
+---
+
+# 18. Limitations of Telehealth
+
+While telehealth improves healthcare accessibility, it cannot replace every aspect of traditional medical care.
+
+Limitations include:
+
+* Inability to perform physical examination
+* Limited diagnostic capabilities
+* Dependence on technology
+* Potential communication challenges
+* Variable internet quality
+* Difficulty assessing certain medical conditions remotely
+
+Healthcare providers may discontinue the virtual consultation and recommend an in-person visit whenever remote assessment is considered insufficient.
+
+---
+
+# 19. Frequently Asked Questions
+
+**Q1. Can I request medication refills during a telehealth consultation?**
+Yes. Patients may request medication refills for medications that have been previously prescribed, provided the treating physician determines that an in-person examination is not required and the medication is appropriate for remote renewal.
+
+**Q2. Can telehealth be used for emergencies?**
+No. Telehealth should never replace emergency medical services. Patients experiencing serious or life-threatening symptoms should seek immediate emergency care.
+
+**Q3. What equipment do I need?**
+A smartphone, tablet, laptop, or desktop computer with a camera, microphone, and reliable internet connection.
+
+**Q4. Will my consultation remain confidential?**
+Yes. The hospital uses secure communication platforms and follows established privacy and confidentiality standards.
+
+**Q5. What happens if my internet connection is interrupted?**
+Hospital staff will attempt to reconnect. If unsuccessful, the consultation may continue by telephone when appropriate or be rescheduled.
+
+**Q6. Can my physician ask me to visit the hospital after a telehealth consultation?**
+Yes. If a physical examination or additional testing is necessary, the physician may recommend an in-person appointment.
+
+---
+
+**End of Document**

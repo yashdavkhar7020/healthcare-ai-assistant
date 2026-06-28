@@ -1,0 +1,341 @@
+# Document ID: HCA-001
+
+**Hospital:** ABC Multi-Speciality Hospital
+**Department:** Patient Services & Appointment Management
+**Document Title:** Appointment Scheduling Policy
+**Version:** 1.0
+**Effective Date:** January 2026
+**Last Updated:** March 2026
+
+---
+
+# Appointment Scheduling Policy
+
+## 1. Purpose
+
+The purpose of this Appointment Scheduling Policy is to establish a standardized process for scheduling, rescheduling, confirming, and cancelling patient appointments at ABC Multi-Speciality Hospital. The policy is designed to ensure timely access to healthcare services, efficient utilization of hospital resources, and a consistent patient experience. It applies to all outpatient departments, specialty clinics, telehealth consultations, diagnostic services, and follow-up visits.
+
+This policy aims to reduce appointment delays, improve patient satisfaction, optimize physician schedules, and minimize missed appointments while maintaining fairness and transparency in appointment allocation.
+
+---
+
+# 2. Scope
+
+This policy applies to:
+
+* New patient appointments
+* Returning patient follow-up appointments
+* Specialist consultations
+* Diagnostic and laboratory appointments
+* Telehealth consultations
+* Preventive health check-up appointments
+* Referral-based appointments
+
+Emergency medical care is not covered under this policy. Patients experiencing medical emergencies should immediately contact emergency services or visit the Emergency Department.
+
+---
+
+# 3. Appointment Booking Methods
+
+Patients may schedule appointments through any of the following channels:
+
+* Hospital reception desk during operating hours
+* Hospital call center
+* Official hospital website
+* Mobile application
+* Authorized patient support representatives
+
+Appointment requests submitted through digital platforms are subject to confirmation by the scheduling system or hospital staff.
+
+---
+
+# 4. Information Required for Booking
+
+Patients are expected to provide accurate information when scheduling an appointment. The following details are generally required:
+
+* Full name
+* Date of birth
+* Contact number
+* Email address (optional)
+* Preferred department or physician
+* Reason for visit
+* Existing patient identification number (if applicable)
+* Insurance information (if applicable)
+
+Providing inaccurate or incomplete information may delay appointment confirmation.
+
+---
+
+# 5. Appointment Confirmation
+
+Appointments are considered confirmed only after the patient receives confirmation through one of the following methods:
+
+* SMS confirmation
+* Email confirmation
+* Mobile application notification
+* Confirmation by hospital staff over the phone
+
+The confirmation message will typically include:
+
+* Appointment ID
+* Department
+* Physician name
+* Appointment date
+* Appointment time
+* Hospital location
+* Special preparation instructions, if required
+
+Patients are encouraged to review these details carefully and contact the hospital immediately if any corrections are necessary.
+
+---
+
+# 6. Arrival Guidelines
+
+Patients should arrive at least **15 minutes before** their scheduled appointment time.
+
+This additional time allows for:
+
+* Identity verification
+* Insurance verification
+* Registration updates
+* Completion of required forms
+* Payment processing, if applicable
+
+Patients arriving significantly late may be requested to reschedule depending on physician availability.
+
+---
+
+# 7. Late Arrival Policy
+
+If a patient expects to arrive late, they should notify the hospital as early as possible.
+
+The following general guidelines apply:
+
+* Arriving within 10 minutes of the scheduled appointment usually allows the consultation to proceed.
+* Arrivals exceeding 15 minutes may result in reduced consultation time.
+* Arrivals exceeding 20 minutes may require appointment rescheduling based on physician discretion and schedule availability.
+
+Hospital staff will make reasonable efforts to accommodate delayed patients whenever possible without negatively affecting other scheduled appointments.
+
+---
+
+# 8. Appointment Rescheduling
+
+Patients may reschedule appointments if they are unable to attend.
+
+Rescheduling requests should preferably be made at least **24 hours** before the scheduled appointment.
+
+Appointments may be rescheduled through:
+
+* Call center
+* Website
+* Mobile application
+* Hospital reception
+
+Repeated last-minute rescheduling may reduce appointment priority for high-demand specialists.
+
+---
+
+# 9. Appointment Cancellation
+
+Patients should cancel appointments as soon as they become aware they cannot attend.
+
+Advance cancellations help make appointment slots available for other patients.
+
+Cancellation can be completed through:
+
+* Online patient portal
+* Mobile application
+* Telephone support
+* Reception desk
+
+No cancellation fee is charged for appointments cancelled at least 24 hours in advance.
+
+Certain specialized diagnostic procedures may have separate cancellation policies.
+
+---
+
+# 10. Missed Appointments
+
+A patient who neither attends nor cancels an appointment is considered a "No-Show."
+
+Repeated missed appointments may result in:
+
+* Reduced scheduling priority
+* Requirement for telephone confirmation before future bookings
+* Longer waiting periods for specialist appointments
+
+The hospital may contact patients after repeated missed appointments to understand any barriers to care and provide scheduling assistance.
+
+---
+
+# 11. Appointment Reminders
+
+To reduce missed appointments, reminder notifications are automatically sent.
+
+Patients may receive reminders:
+
+* Seven days before the appointment
+* Twenty-four hours before the appointment
+* Two hours before the appointment (optional)
+
+Reminder notifications do not replace the patient's responsibility to attend or cancel appointments.
+
+---
+
+# 12. Specialist Referrals
+
+Certain specialist consultations require a physician referral.
+
+Examples include:
+
+* Cardiology
+* Neurology
+* Oncology
+* Rheumatology
+
+Referral documentation should be submitted before the appointment whenever possible to avoid delays.
+
+Patients without required referrals may need to reschedule unless hospital policy allows direct specialist access.
+
+---
+
+# 13. Telehealth Appointments
+
+Eligible patients may schedule telehealth consultations for appropriate medical conditions.
+
+Telehealth appointments are generally suitable for:
+
+* Routine follow-up visits
+* Medication review
+* Chronic disease management
+* Minor illness consultations
+* Laboratory result discussion
+
+Telehealth appointments are generally **not appropriate** for medical emergencies, severe injuries, or situations requiring physical examination.
+
+Patients are responsible for ensuring they have:
+
+* Stable internet connection
+* Camera-enabled device
+* Quiet and private environment
+
+Patients should log in approximately 10 minutes before the scheduled consultation.
+
+---
+
+# 14. Diagnostic Appointments
+
+Some diagnostic appointments require preparation before arrival.
+
+Examples include:
+
+* Fasting before blood tests
+* Drinking water before ultrasound
+* Medication adjustments before imaging procedures
+
+Preparation instructions are included in the appointment confirmation whenever applicable.
+
+Failure to follow preparation instructions may require appointment rescheduling.
+
+---
+
+# 15. Insurance Verification
+
+Patients using health insurance should provide valid insurance information during appointment booking.
+
+Insurance eligibility may be verified before the appointment.
+
+If insurance cannot be verified, patients may be responsible for payment until coverage is confirmed.
+
+Coverage approval remains subject to the policies of the insurance provider.
+
+---
+
+# 16. Pediatric Appointments
+
+Children under 18 years of age should attend appointments with a parent, legal guardian, or authorized caregiver.
+
+The accompanying adult may be required to:
+
+* Present identification
+* Complete consent forms
+* Participate in medical discussions
+
+Additional consent may be required for specific procedures.
+
+---
+
+# 17. Accessibility Services
+
+ABC Multi-Speciality Hospital is committed to providing accessible healthcare services.
+
+Patients requiring additional assistance may request:
+
+* Wheelchair support
+* Language interpretation
+* Hearing assistance
+* Mobility assistance
+* Extended appointment duration for accessibility needs
+
+Requests should ideally be communicated during appointment booking.
+
+---
+
+# 18. Patient Responsibilities
+
+Patients are expected to:
+
+* Provide accurate personal information.
+* Bring identification documents.
+* Carry insurance information when applicable.
+* Inform staff about appointment changes promptly.
+* Arrive on time.
+* Follow preparation instructions.
+* Treat hospital staff respectfully.
+
+Patients should notify the hospital if their contact information changes to ensure appointment communications are received.
+
+---
+
+# 19. Hospital Responsibilities
+
+The hospital is responsible for:
+
+* Providing reasonable appointment availability.
+* Protecting patient privacy.
+* Sending appointment confirmations and reminders.
+* Maintaining accurate scheduling records.
+* Informing patients about significant delays whenever possible.
+* Offering rescheduling options when physicians become unavailable.
+
+Every effort will be made to minimize waiting times while recognizing that emergency medical situations may occasionally affect clinic schedules.
+
+---
+
+# 20. Frequently Asked Questions
+
+**Q1. Can I schedule appointments online?**
+Yes. Appointments can be requested through the hospital website and mobile application.
+
+**Q2. Can I reschedule my appointment?**
+Yes. Patients are encouraged to request rescheduling at least 24 hours before the appointment.
+
+**Q3. What happens if I arrive late?**
+Late arrivals may still be accommodated depending on physician availability. Significant delays may require rescheduling.
+
+**Q4. Can someone else book an appointment for me?**
+Yes, provided they have the necessary patient information and authorization where applicable.
+
+**Q5. Will I receive appointment reminders?**
+Yes. Reminder notifications are generally sent seven days, twenty-four hours, and optionally two hours before the appointment.
+
+**Q6. Can I book a telehealth consultation?**
+Yes. Telehealth appointments are available for eligible medical conditions and follow-up care.
+
+**Q7. Do I need a referral for every specialist?**
+Not always. Some specialties require physician referrals, while others may allow direct appointments depending on hospital policy.
+
+---
+
+**End of Document**

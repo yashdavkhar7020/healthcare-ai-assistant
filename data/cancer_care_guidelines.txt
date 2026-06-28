@@ -1,0 +1,186 @@
+# Document ID: HCA-007
+
+Hospital: ABC Multi-Speciality Hospital
+Department: Oncology Services
+Document Title: Cancer Care Guidelines
+Version: 1.0
+Effective Date: January 2026
+Last Updated: June 2026
+
+--------------------------------------------------
+
+# Cancer Care Guidelines
+
+## 1. Purpose
+
+The purpose of this document is to establish general guidelines for cancer screening, diagnosis, treatment coordination, patient education, follow-up care, and supportive services provided by the Oncology Department of ABC Multi-Speciality Hospital. These guidelines promote high-quality, patient-centered care while ensuring safety, continuity, and informed decision-making throughout the treatment journey.
+
+## 2. Scope
+
+These guidelines apply to all patients receiving cancer-related consultations, diagnostic evaluations, chemotherapy, radiation therapy referrals, surgical oncology services, survivorship care, and palliative care consultations.
+
+## 3. Initial Evaluation
+
+Patients referred to the Oncology Department undergo a comprehensive clinical evaluation. This includes reviewing the patient's medical history, family history, laboratory investigations, pathology reports, imaging studies, previous treatments, allergies, and current medications.
+
+Additional diagnostic tests may be ordered when necessary to confirm the diagnosis or determine the stage of disease.
+
+## 4. Cancer Screening
+
+Routine cancer screening is recommended according to age, family history, medical history, and physician recommendations.
+
+Examples include:
+
+- Breast cancer screening using mammography.
+- Cervical cancer screening using Pap tests.
+- Colorectal cancer screening through colonoscopy or stool-based tests.
+- Lung cancer screening for eligible high-risk individuals.
+- Prostate cancer screening after discussion with a healthcare provider.
+
+Screening recommendations should always be individualized.
+
+## 5. Treatment Planning
+
+Every patient receives an individualized treatment plan developed by a multidisciplinary team. The team may include:
+
+- Medical oncologists
+- Surgical oncologists
+- Radiation oncologists
+- Pathologists
+- Radiologists
+- Oncology nurses
+- Dietitians
+- Psychologists
+- Social workers
+
+Treatment recommendations depend on cancer type, stage, patient preferences, overall health, and expected outcomes.
+
+## 6. Chemotherapy
+
+Chemotherapy medications are prescribed only after appropriate evaluation by an oncologist.
+
+Before each chemotherapy cycle, patients may undergo blood tests to ensure treatment can be safely administered.
+
+Patients should immediately report symptoms including:
+
+- Fever
+- Persistent vomiting
+- Severe diarrhea
+- Uncontrolled pain
+- Difficulty breathing
+- Chest pain
+- Excessive bleeding
+
+Dose adjustments may be required depending on treatment response and side effects.
+
+## 7. Radiation Therapy
+
+Radiation therapy may be recommended alone or together with surgery or chemotherapy.
+
+Treatment schedules vary depending on the diagnosis.
+
+Patients should attend every scheduled radiation session whenever possible.
+
+Common temporary side effects include fatigue, mild skin irritation, and localized discomfort.
+
+## 8. Surgical Oncology
+
+Some cancers require surgical removal of tumors before or after additional therapies.
+
+Patients receive pre-operative counseling regarding:
+
+- Procedure details
+- Expected recovery
+- Possible risks
+- Hospital stay
+- Follow-up appointments
+
+Recovery plans differ according to the type of surgery performed.
+
+## 9. Follow-up Care
+
+Regular follow-up visits help monitor recovery, identify recurrence, evaluate treatment response, and manage long-term side effects.
+
+Patients are encouraged to attend every scheduled follow-up appointment even if they feel well.
+
+Typical follow-up may include:
+
+- Physical examinations
+- Blood investigations
+- Imaging studies
+- Medication review
+- Symptom assessment
+
+## 10. Supportive Care
+
+Cancer treatment may affect emotional, nutritional, physical, and psychological well-being.
+
+Supportive care services available include:
+
+- Nutrition counseling
+- Pain management
+- Psychological counseling
+- Rehabilitation services
+- Financial counseling
+- Social work support
+
+Patients and family members are encouraged to seek assistance whenever needed.
+
+## 11. Palliative Care
+
+Palliative care focuses on improving quality of life by managing symptoms, reducing discomfort, and supporting patients and families.
+
+Palliative care is appropriate at any stage of serious illness and may be provided alongside active cancer treatment.
+
+Services may include pain control, emotional support, symptom management, and advance care planning.
+
+## 12. Patient Responsibilities
+
+Patients should:
+
+- Attend scheduled appointments.
+- Follow prescribed treatment plans.
+- Inform healthcare providers of new symptoms.
+- Maintain an updated medication list.
+- Report side effects promptly.
+- Discuss concerns openly with the healthcare team.
+
+Patients should never stop cancer medications without consulting their treating physician.
+
+## 13. Infection Prevention During Treatment
+
+Cancer treatments may weaken the immune system.
+
+Patients should:
+
+- Wash hands frequently.
+- Avoid close contact with individuals who are ill.
+- Monitor body temperature daily if instructed.
+- Seek medical attention immediately for fever above 38°C.
+- Maintain good oral hygiene.
+
+Vaccination recommendations should always be discussed with the oncology team.
+
+## 14. Emergency Situations
+
+Patients should seek immediate medical care if they experience:
+
+- Severe chest pain
+- Difficulty breathing
+- Uncontrolled bleeding
+- Loss of consciousness
+- Persistent high fever
+- Severe allergic reactions
+- Sudden confusion
+
+Emergency services should be contacted whenever urgent medical attention is required.
+
+## 15. Documentation
+
+All consultations, investigations, treatment decisions, medication changes, informed consent discussions, and follow-up recommendations are documented in the patient's electronic health record.
+
+## 16. Review
+
+These guidelines are reviewed periodically to ensure compliance with current oncology standards, hospital policies, and evolving clinical best practices.
+
+End of Document.
