@@ -99,7 +99,6 @@ healthcare-ai-assistant/
 ├── logs/
 │      app.log
 │
-├── .env
 ├── Dockerfile
 ├── docker-compose.yml
 ├── requirements.txt
